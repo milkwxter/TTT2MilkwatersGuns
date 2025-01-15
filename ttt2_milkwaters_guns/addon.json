@@ -1,0 +1,16 @@
+{
+  "title": "[TTT2] Milkwater's Guns",
+  "type": "ServerContent",
+  "tags": [
+    "fun",
+    "roleplay",
+    "realism"
+  ],
+  "ignore": [
+    "*.vmx",
+    "*.prt",
+    "*.log",
+    "*.vmf",
+    "*.lin"
+  ]
+}

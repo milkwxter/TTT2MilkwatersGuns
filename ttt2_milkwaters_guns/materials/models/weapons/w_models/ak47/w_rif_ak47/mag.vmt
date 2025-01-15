@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$translucent" 1	
+	"$baseTexture" "models\weapons\v_models\ak47\rif_ak47\mag"
+	"$bumpmap" "models\weapons\v_models\ak47\rif_ak47\map2_normal"
+}

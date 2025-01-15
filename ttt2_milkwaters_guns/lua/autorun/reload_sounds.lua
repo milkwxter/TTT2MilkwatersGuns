@@ -1,0 +1,71 @@
+// M9 Beretta
+sound.Add({
+	name = 			"Weapon_Beretta.Clipin1",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/beretta_m9/clipin1.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Beretta.Clipin2",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/beretta_m9/clipin2.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Beretta.Clipout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/beretta_m9/clipout.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Beretta.SlideForward",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/beretta_m9/SlideForward.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Beretta.Slideback",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/beretta_m9/slideback.wav"
+})
+
+// AK47
+sound.Add({
+	name = 			"Weapon_AK47.boltback",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47/boltback.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47.boltpull",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47/boltpull.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47.magin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47/magin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47.magin2",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47/magin2.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47.magout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47/magout.wav"
+})
