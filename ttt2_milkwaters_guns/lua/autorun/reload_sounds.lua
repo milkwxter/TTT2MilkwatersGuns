@@ -69,3 +69,32 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/ak47/magout.wav"
 })
+
+// M24
+sound.Add({
+	name = 			"Weapon_M24.boltback",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m24/boltback.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_M24.boltforward",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m24/boltforward.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_M24.magin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m24/magin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_M24.magout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m24/magout.wav"
+})
