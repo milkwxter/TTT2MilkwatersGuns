@@ -9,8 +9,8 @@ SWEP.AutoSpawnable			= true
 if CLIENT then
    SWEP.PrintName			= "AK-47"
    SWEP.Author				= "Milkwater"
-   SWEP.Slot				= 1
-   SWEP.SlotPos				= 1
+   SWEP.Slot				= 2
+   SWEP.SlotPos				= 2
    SWEP.EquipMenuData = {
 	  type					= "item_weapon",
 	  desc					= "A rifle."
@@ -20,11 +20,11 @@ end
 
 SWEP.Kind					= WEAPON_HEAVY
 
-SWEP.Primary.Damage         = 17
+SWEP.Primary.Damage         = 23
 SWEP.HeadshotMultiplier     = 2.5
 SWEP.Primary.Delay          = 0.14
 SWEP.Primary.Recoil         = 2.2
-SWEP.Primary.Cone           = 0.17
+SWEP.Primary.Cone           = 0.15
 SWEP.Primary.Aimfocus      	= 0.1	--How much better is the Aim while aiming down sights?
 SWEP.Primary.MinRange		= 2000 	--50 units = ~1m
 SWEP.Primary.MaxRange		= 5000 	--500 units = ~10m

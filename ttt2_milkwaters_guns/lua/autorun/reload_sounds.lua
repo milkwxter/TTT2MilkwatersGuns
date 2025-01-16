@@ -1,4 +1,4 @@
-// M9 Beretta
+// M9 Beretta ////////////////////////////////////////////////////////////////
 sound.Add({
 	name = 			"Weapon_Beretta.Clipin1",
 	channel = 		CHAN_ITEM,
@@ -34,7 +34,7 @@ sound.Add({
 	sound = 		"weapons/beretta_m9/slideback.wav"
 })
 
-// AK47
+// AK47 ////////////////////////////////////////////////////////////////
 sound.Add({
 	name = 			"Weapon_AK47.boltback",
 	channel = 		CHAN_ITEM,
@@ -70,7 +70,7 @@ sound.Add({
 	sound = 		"weapons/ak47/magout.wav"
 })
 
-// M24
+// M24 ////////////////////////////////////////////////////////////////
 sound.Add({
 	name = 			"Weapon_M24.boltback",
 	channel = 		CHAN_ITEM,
