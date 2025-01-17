@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\weapons\v_models\m60\Ammobox"
+"$envmap" "env_cubemap"
+"$envmapmask" "models\weapons\v_models\m60\ammobox_ref"
+}
