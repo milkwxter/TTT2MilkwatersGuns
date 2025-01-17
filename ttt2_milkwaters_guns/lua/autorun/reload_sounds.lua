@@ -98,3 +98,18 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/m24/magout.wav"
 })
+
+// SPAS12 ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_Spas.cock",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/spas/xm_cock.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Spas.insert",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/spas/xm_insert.wav"
+})

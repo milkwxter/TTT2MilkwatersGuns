@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\spas\grips"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\spas\grips_ref"
+}
