@@ -23,9 +23,9 @@ SWEP.Kind					= WEAPON_HEAVY
 SWEP.Primary.Damage         = 8
 SWEP.HeadshotMultiplier     = 2
 SWEP.Primary.Delay          = 0.2
-SWEP.Primary.Recoil         = 0
-SWEP.Primary.Cone           = 0.3
-SWEP.Primary.Aimfocus      	= 0.75	--How much better is the Aim while aiming down sights?
+SWEP.Primary.Recoil         = 12
+SWEP.Primary.Cone           = 0.2
+SWEP.Primary.Aimfocus      	= 0.50	--How much better is the Aim while aiming down sights?
 SWEP.Primary.MinRange		= 500 	--50 units = ~1m
 SWEP.Primary.MaxRange		= 1000 	--500 units = ~10m
 SWEP.Primary.NumShots       = 12	--How many bullets do we shoot at once
@@ -55,17 +55,6 @@ SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
 
 SWEP.leftGunFiring = false
-
-hook.Add( "PostDrawViewModel", "DrawAttachments", function( vm )
-    local attachments = vm:GetAttachments()
-    for _, att in pairs( attachments ) do
-        local attPos = vm:GetAttachment( att.id )
-        cam.Start2D()
-        local toScreen = attPos.Pos:ToScreen()
-        draw.DrawText( att.name, nil, toScreen.x, toScreen.y, nil, TEXT_ALIGN_CENTER )
-        cam.End2D()
-    end
-end )
 
 function SWEP:ShootBullet( penleft, dmg, recoil, numbul, cone, minrange, maxrange )
 	if not IsFirstTimePredicted() then return end
