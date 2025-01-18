@@ -121,3 +121,25 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/M60/m249_chaindraw.wav"
 })
+
+// MAC11 ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_Mac11.boltpull",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/mac11/mac10_boltpull.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Mac11.clipin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/mac11/mac10_clipin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Mac11.clipout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/mac11/mac10_clipout.wav"
+})

@@ -38,6 +38,7 @@ SWEP.Primary.Automatic      = false
 SWEP.SelectiveFire			= true
 
 SWEP.Primary.Sound			= Sound("weapons/m24/Scout_Fire-2.wav")	
+SWEP.Primary.SilencedSound	= Sound("weapons/m24/Scout_Fire-2.wav")
 SWEP.IsSilent 				= true --No Death Scream, less noise + modifiers below. Decreases Stats when switching TO IsSilent.
 
 SWEP.SelectiveZoom		= false

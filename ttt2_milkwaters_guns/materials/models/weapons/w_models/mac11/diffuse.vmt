@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\weapons\v_models\mac11\diffuse"
+	"$bumpmap" "models\weapons\v_models\mac11\diffuse_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.02 .02 .02]"
+	"$phong" 1
+	"$phongboost" 40
+	"$phongexponenttexture" "models\weapons\v_models\mac11\diffuse_exponent"
+	"$phongfresnelranges" "[.5 1 2]"
+	"$phongalbedotint" 1
+}
