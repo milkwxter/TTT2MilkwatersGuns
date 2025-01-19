@@ -20,14 +20,14 @@ end
 
 SWEP.Kind					= WEAPON_HEAVY
 
-SWEP.Primary.Damage         = 18
-SWEP.HeadshotMultiplier     = 1.75
+SWEP.Primary.Damage         = 20
+SWEP.HeadshotMultiplier     = 1.5
 SWEP.Primary.Delay          = 0.25
 SWEP.Primary.Recoil         = 1.1
 SWEP.Primary.Cone           = 0.08
 SWEP.Primary.Aimfocus      	= 0.3	--How much better is the Aim while aiming down sights?
 SWEP.Primary.MinRange		= 1000 	--50 units = ~1m
-SWEP.Primary.MaxRange		= 400 	--500 units = ~10m
+SWEP.Primary.MaxRange		= 4000 	--500 units = ~10m
 
 SWEP.BurstSelected			= true  --X Round Burst?
 SWEP.BurstBulletsPerBurst	= 4		--Rounds in a Burst?

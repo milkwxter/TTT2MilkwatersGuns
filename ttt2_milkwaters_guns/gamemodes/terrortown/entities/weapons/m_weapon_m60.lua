@@ -20,10 +20,10 @@ end
 
 SWEP.Kind					= WEAPON_HEAVY
 
-SWEP.Primary.Damage         = 19
-SWEP.HeadshotMultiplier     = 2.5
+SWEP.Primary.Damage         = 23
+SWEP.HeadshotMultiplier     = 2.0
 SWEP.Primary.Delay          = 0.12
-SWEP.Primary.Recoil         = 4
+SWEP.Primary.Recoil         = 6
 SWEP.Primary.Cone           = 0.3
 SWEP.Primary.Aimfocus      	= 0.2	--How much better is the Aim while aiming down sights?
 SWEP.Primary.MinRange		= 2000 	--50 units = ~1m
