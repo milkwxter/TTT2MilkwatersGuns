@@ -9,3 +9,4 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 - M60 MG: https://gamebanana.com/mods/211964
 - Ingram MAC-11: https://gamebanana.com/mods/209043
 - Akimbo Manvilles: https://gamebanana.com/mods/208089
+- Colt Python: https://gamebanana.com/mods/207724
