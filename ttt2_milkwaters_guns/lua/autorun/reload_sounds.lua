@@ -143,3 +143,75 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/mac11/mac10_clipout.wav"
 })
+
+// Python ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_Python.blick",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/blick.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Python.bulldraw",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/bulldraw.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Python.bulletsin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/bulletsin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Python.bulletsout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/bulletsout.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Python.clipdraw",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/clipdraw.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_Python.unfold",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/python/unfold.wav"
+})
+
+// Ares FMG ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_FMG.mac10_boltpull",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/fmg/mac10_boltpull.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_FMG.mac10_clipin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/fmg/mac10_clipin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_FMG.mac10_clipout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/fmg/mac10_clipout.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_FMG.mac10_deploy",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/fmg/mac10_deploy.wav"
+})

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/weapons/v_models/fmg/main color"
+	"$bumpmap" 	"models/weapons/v_models/fmg/main colorn"
+	"$phongexponenttexture" "models/weapons/v_models/fmg/main colore"                                        
+	"$phong" 		"1"
+	"$phongboost"		"0.5"
+	"$phongfresnelranges"	"[1 2 5]"
+	"$phongalbedotint" 		"1"
+	"$halflambert" 		"1"
+	"$phongtint"		"[1 1 0.8]"
+
+}
