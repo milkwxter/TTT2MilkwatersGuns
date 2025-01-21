@@ -6,11 +6,16 @@ function EFFECT:Init( data )
 	self.EndPos = data:GetOrigin()
 	self.WeaponEnt = data:GetEntity()
 	
-	-- code for switching muzzles for the tracer
-	if self.WeaponEnt.leftGunFiring then
-		self.Attachment = data:GetEntity():GetOwner():GetViewModel():LookupAttachment("muzzle_left") or data:GetAttachment()
+	-- only do different tracer attachments clientside
+	if self.WeaponEnt:GetOwner() == LocalPlayer() then
+		-- code for switching muzzles for the tracer
+		if self.WeaponEnt.leftGunFiring then
+			self.Attachment = data:GetEntity():GetOwner():GetViewModel():LookupAttachment("muzzle_left")
+		else
+			self.Attachment = data:GetEntity():GetOwner():GetViewModel():LookupAttachment("muzzle_right")
+		end
 	else
-		self.Attachment = data:GetEntity():GetOwner():GetViewModel():LookupAttachment("muzzle_right") or data:GetAttachment()
+		self.Attachment = data:GetAttachment()
 	end
 	
 	self.StartPos = self:GetTracerShootPos( self.Position, self.WeaponEnt, self.Attachment )
