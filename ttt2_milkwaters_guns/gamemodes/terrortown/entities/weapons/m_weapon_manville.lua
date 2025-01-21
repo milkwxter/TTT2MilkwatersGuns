@@ -46,7 +46,7 @@ SWEP.UseHands				= true
 SWEP.ViewModelFlip			= false
 SWEP.ViewModelFOV			= 80
 SWEP.ViewModel				= "models/weapons/manville/v_pist_elite.mdl"	
-SWEP.WorldModel				= "models/weapons/manville/w_pist_elite_dropped.mdl"
+SWEP.WorldModel				= "models/weapons/manville/w_pist_elite.mdl"
 SWEP.HoldType				= "duel"
 
 SWEP.IronSightsPos          = Vector(0, -2, 2)
