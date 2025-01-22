@@ -251,3 +251,26 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/ar70/galil_clipout.wav"
 })
+
+// Remington7615 ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_7615.bolt",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/remington_7615/scout_bolt.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_7615.Clipin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/remington_7615/scout_clipin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_7615.Clipout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/remington_7615/scout_clipout.wav"
+})
+
