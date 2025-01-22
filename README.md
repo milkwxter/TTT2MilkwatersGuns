@@ -2,9 +2,10 @@
 Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 
 # CREDITS
-- M9 Beretta: https://gamebanana.com/mods/214380
+- Beretta M92: https://gamebanana.com/mods/214380
 - Colt Python: https://gamebanana.com/mods/207724
 - AK-47: https://gamebanana.com/mods/209749
+- Beretta AR-70: https://gamebanana.com/mods/374713
 - Smith M24 & Suppressed Smith M24: https://gamebanana.com/mods/210887
 - Franchi Spas-12: https://gamebanana.com/mods/208528
 - Akimbo Manvilles: https://gamebanana.com/mods/208089
