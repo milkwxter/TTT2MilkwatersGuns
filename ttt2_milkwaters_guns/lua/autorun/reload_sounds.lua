@@ -215,3 +215,39 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/fmg/mac10_deploy.wav"
 })
+
+// Beretta AR70 ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_AR70.BoltPull",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ar70/galil_boltpull.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AR70.BoltPull2",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ar70/galil_boltpull2.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AR70.Clipin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ar70/galil_clipin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AR70.Clipin2",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ar70/galil_clipin2.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AR70.Clipout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ar70/galil_clipout.wav"
+})

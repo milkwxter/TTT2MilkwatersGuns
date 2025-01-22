@@ -7,7 +7,7 @@ SWEP.Spawnable				= true
 SWEP.AutoSpawnable			= true
 
 if CLIENT then
-   SWEP.PrintName			= "M92 Beretta"
+   SWEP.PrintName			= "Beretta M92"
    SWEP.Author				= "Milkwater"
    SWEP.Slot				= 1
    SWEP.SlotPos				= 1
