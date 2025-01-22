@@ -1,6 +1,7 @@
 # TTT2MilkwatersGuns
 Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 
+
 # WEAPONS
 - # PISTOLS:
 1) Beretta M92: Fast firing, lower damage (Credits: https://gamebanana.com/mods/214380)
@@ -20,6 +21,8 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 - # OTHER:
 1) M60 MG: 200 rounds, no reload (Credits: https://gamebanana.com/mods/211964)
 2) Remington 7615: Scope + zoom, swap between slugs for range and buckshot for damage (Credits: https://gamebanana.com/mods/210804)
+
+
 # CREDITS
 I do not own ANY of the following items used in this mod: Models, Materials, or Sounds.
 I included a link to the original authors submissions next to each weapon in the list above.
