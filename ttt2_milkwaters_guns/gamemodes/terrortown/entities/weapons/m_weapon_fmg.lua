@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A machine gun that looks like a briefcase. Interesting."
    };
-	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/fmg.png"
+	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/icon_fmg.png"
 end
 
 SWEP.Kind					= WEAPON_HEAVY

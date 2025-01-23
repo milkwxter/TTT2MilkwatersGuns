@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A bolt-action rifle."
    };
-	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/m24.png"
+	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/icon_m24.png"
 end
 
 SWEP.Kind					= WEAPON_HEAVY

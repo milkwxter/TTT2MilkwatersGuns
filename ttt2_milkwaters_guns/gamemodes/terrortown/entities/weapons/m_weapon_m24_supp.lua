@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A bolt-action rifle. Supressed and highly illegal."
    };
-	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/m24_supp.png"
+	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/icon_m24_supp.png"
 end
 
 SWEP.Kind					= WEAPON_EQUIP1
