@@ -40,16 +40,14 @@ SWEP.SelectiveFire			= false
 SWEP.RoundAim				= true --Crosshair or Circle?
 
 --SWITCH BULLET TYPE -- SWEP:AdjustStats(dmg, headshot, numshots, recoil, delay, cone, aim, pen, switch, switchstring)
-SWEP.SelectiveSBT			= true	--Switch Ammo Types?
-SWEP.SBTNextSelect			= 0		--Dont touch
-SWEP.SBTDamage				= 8
-SWEP.SBTHeadshot			= 2
-SWEP.SBTNumShots			= 8
-SWEP.SBTRecoil				= 2
-SWEP.SBTDelay				= 1.1
-SWEP.SBTCone				= 0.6
-SWEP.SBTAim					= 0.9
-SWEP.SBTActive				= false
+SWEP.SelectiveSBT			= true	-- allow Switch Ammo Types?
+SWEP.SBTDamage				= 0.15	-- self:GetPrimaryDamage() * dmg
+SWEP.SBTHeadshot			= 1.0	-- self.HeadshotMultiplier * headshot
+SWEP.SBTNumShots			= 8		-- self.Primary.NumShots * numshots
+SWEP.SBTRecoil				= 1.5	-- self.Primary.Recoil * recoil
+SWEP.SBTCone				= 1.1	-- self.Primary.Cone * cone
+SWEP.SBTAim					= 1.5	-- self.Primary.Aimfocus * aim
+SWEP.SBTActive				= false -- DO NOT TOUCH
 SWEP.SBTEnabledString		= "[SBT] Buckshot Ammo selected."
 SWEP.SBTDisabledString		= "[SBT] Slugs selected."
 
@@ -68,7 +66,7 @@ SWEP.ViewModel				= "models/weapons/remington_7615/v_snip_scout.mdl"
 SWEP.WorldModel				= "models/weapons/remington_7615/w_snip_scout.mdl"
 SWEP.HoldType				= "ar2"
 
-SWEP.IronSightsPos          = Vector(3.5, -15, 2)
+SWEP.IronSightsPos          = Vector(3.1, -30, 2)
 SWEP.IronSightsAng          = Vector(0, 0, 0)
 SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
