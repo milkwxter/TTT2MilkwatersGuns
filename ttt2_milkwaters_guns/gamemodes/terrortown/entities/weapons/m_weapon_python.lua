@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A revolver."
    };
-	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/python.png"
+	SWEP.Icon                       = "materials/milkwaters_icons/vgui/ttt/icon_python.png"
 end
 
 SWEP.Kind					= WEAPON_PISTOL

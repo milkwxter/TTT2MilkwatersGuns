@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A pump-action shotgun that fires slugs OR buckshot."
    };
-	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/remington_7615.png"
+	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/icon_remington_7615.png"
 end
 
 SWEP.Kind					= WEAPON_HEAVY

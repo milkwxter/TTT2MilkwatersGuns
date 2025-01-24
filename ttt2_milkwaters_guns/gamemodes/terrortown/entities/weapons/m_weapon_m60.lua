@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "A big ass gun."
    };
-	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/m60.png"
+	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/icon_m60.png"
 end
 
 SWEP.Kind					= WEAPON_HEAVY

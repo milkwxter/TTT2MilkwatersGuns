@@ -15,7 +15,7 @@ if CLIENT then
 	  type					= "item_weapon",
 	  desc					= "Two shotguns at the same time. Are you perhaps compensating for something?"
    };
-	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/manville.png"
+	SWEP.Icon               = "materials/milkwaters_icons/vgui/ttt/icon_manville.png"
 end
 
 SWEP.Kind					= WEAPON_HEAVY
