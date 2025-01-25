@@ -50,3 +50,5 @@ SWEP.IronSightsPos          = Vector(-2.88, -3, 0.7)
 SWEP.IronSightsAng          = Vector(0, 2.6, 0)
 SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
+
+SWEP.MovementPenalty		= 0.5

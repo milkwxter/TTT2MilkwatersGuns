@@ -54,6 +54,8 @@ SWEP.IronSightsAng          = Vector(0, 0, 0)
 SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
 
+SWEP.MovementPenalty		= 0.5
+
 SWEP.leftGunFiring = false
 
 function SWEP:ShootBullet( penleft, dmg, recoil, numbul, cone, minrange, maxrange )

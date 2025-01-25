@@ -35,7 +35,7 @@ SWEP.Primary.ClipSize       = 30
 SWEP.Primary.DefaultClip	= 30
 SWEP.Primary.Automatic      = true
 
-SWEP.SelectiveFire			= true
+SWEP.SelectiveFire			= false
 
 SWEP.Primary.Sound			= Sound("weapons/ak47/ak47-1.wav")	
 
@@ -50,3 +50,5 @@ SWEP.IronSightsPos          = Vector(5.3, -2, 3)
 SWEP.IronSightsAng          = Vector(0, 0, 0)
 SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
+
+SWEP.MovementPenalty		= 0.5

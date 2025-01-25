@@ -59,4 +59,6 @@ SWEP.IronSightsAng          = Vector(0, 0, 0)
 SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
 
+SWEP.MovementPenalty		= 0.5
+
 SWEP.CanBuy = { ROLE_TRAITOR } -- only traitors can buy
