@@ -11,7 +11,8 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 2) Ares FMG: 4 round burst, high accuracy (Credits: https://gamebanana.com/mods/209053)
 - # RIFLES:
 1) AK-47: High damage, high recoil (Credits: https://gamebanana.com/mods/209749)
-2) Beretta AR-70: Lower damage, faster firing (Credits: https://gamebanana.com/mods/374713)
+2) Golden AK-47: Higher damage, higher recoil, detective shop item (Credits: https://gamebanana.com/mods/209745)
+3) Beretta AR-70: Lower damage, faster firing (Credits: https://gamebanana.com/mods/374713)
 - # SNIPERS:
 1) Smith M24: Low bodyshot damage, scope + zoom, high headshot damage (Credits: https://gamebanana.com/mods/210887)
 2) Suppressed Smith M24: Low bodyshot damage, scope + zoom, high headshot damage, suppressed (Credits: https://gamebanana.com/mods/210887)
