@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\ak47gold\upper"
+	"$envmap" "env_cubemap"
+      "$envmapmask" "models\weapons\v_models\ak47gold\upper_ref"
+}

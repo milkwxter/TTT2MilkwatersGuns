@@ -274,3 +274,24 @@ sound.Add({
 	sound = 		"weapons/remington_7615/scout_clipout.wav"
 })
 
+// Ak47 Gold ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_AK47Gold.boltpull",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47gold/boltpull.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47Gold.magin",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47gold/magin.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_AK47Gold.magout",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/ak47gold/magout.wav"
+})
