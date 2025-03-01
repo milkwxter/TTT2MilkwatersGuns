@@ -24,6 +24,7 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 2) Remington 7615: Scope + zoom, swap between slugs for range and buckshot for damage (Credits: https://gamebanana.com/mods/210804)
 - # MELEE:
 1) Beast Kukri: Fast swinging, higher damage than crowbar (Credits: https://gamebanana.com/mods/212863)
+2) Claw Hammer: Slow swings, higher damage than the Beast Kukri (Credits: https://gamebanana.com/mods/212648)
 
 
 # CREDITS
