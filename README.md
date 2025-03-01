@@ -22,6 +22,8 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 - # OTHER:
 1) M60 MG: 200 rounds, no reload (Credits: https://gamebanana.com/mods/211964)
 2) Remington 7615: Scope + zoom, swap between slugs for range and buckshot for damage (Credits: https://gamebanana.com/mods/210804)
+- # MELEE:
+1) Beast Kukri: Fast swinging, higher damage than crowbar (Credits: https://gamebanana.com/mods/212863)
 
 
 # CREDITS
