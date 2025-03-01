@@ -1,0 +1,6 @@
+ VertexLitGeneric
+{
+   "$baseTexture" "models\weapons\v_models\claw_hammer\hammer"
+   "$envmap" "env_cubemap"
+   "$envmapmask" "models\weapons\v_models\claw_hammer\hammer_ref"
+}
