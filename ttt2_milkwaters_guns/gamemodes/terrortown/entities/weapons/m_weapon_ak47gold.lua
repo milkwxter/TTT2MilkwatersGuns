@@ -3,14 +3,14 @@ if SERVER then
 end
 
 SWEP.Base					= "weapon_xmodtttbase"
-SWEP.Spawnable				= true
-SWEP.AutoSpawnable			= true
+SWEP.Spawnable				= false
+SWEP.AutoSpawnable			= false
 
 if CLIENT then
    SWEP.PrintName			= "Golden AK-47"
    SWEP.Author				= "Milkwater"
-   SWEP.Slot				= 2
-   SWEP.SlotPos				= 2
+   SWEP.Slot				= 6
+   SWEP.SlotPos				= 6
    SWEP.EquipMenuData = {
 	  type					= "item_weapon",
 	  desc					= "A golden rifle. Better than the normal variant."
@@ -52,3 +52,5 @@ SWEP.RunSightsPos           = Vector(0, 0, 0)
 SWEP.RunSightsAng           = Vector(0, 0, 0)
 
 SWEP.MovementPenalty		= 0.5
+
+SWEP.CanBuy = { ROLE_DETECTIVE } -- only traitors can buy

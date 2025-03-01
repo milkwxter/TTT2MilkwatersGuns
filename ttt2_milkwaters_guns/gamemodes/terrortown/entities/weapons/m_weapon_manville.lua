@@ -79,20 +79,19 @@ function SWEP:ShootBullet( penleft, dmg, recoil, numbul, cone, minrange, maxrang
 	self.Owner:SetAnimation( PLAYER_ATTACK1 )
 
 	local bullet = {}
-	bullet.Num    = numbul
-	bullet.Src    = self.Owner:GetShootPos()
-	bullet.Dir    = self.Owner:GetAimVector()
-	bullet.Spread = Vector( cone, cone, 0 )
+	bullet.Num	 = numbul
+	bullet.Src	 = self:GetOwner():GetShootPos()
+	bullet.Dir	 = self:GetOwner():GetAimVector()
+	bullet.Spread = Vector( cone * self.Primary.HoriSpread, cone * self.Primary.VertSpread, 0 )
 	bullet.Tracer = (self.IsSilent and 0) or 1
 	bullet.TracerName = "xmod_guntracer_dual"
 	bullet.Force  = penleft / 5
 	bullet.Damage = dmg
 	bullet.Callback	= function(attacker, tracedata, dmginfo)
-		dmginfo:SetDamage( self:RangeCallback( dmginfo:GetDamage(), tracedata, minrange, maxrange, 0 )  )
+		dmginfo:SetDamage( self:RangeCallback( dmginfo, tracedata, minrange, maxrange, 0 )  )
 		return self:RicochetCallback(0, penleft, minrange, maxrange, 0, attacker, tracedata, dmginfo)
 	end
-	
-	self.Owner:MuzzleFlash()
+
 	owner:FireBullets( bullet )
 
 	-- Owner can die after firebullets
@@ -100,7 +99,7 @@ function SWEP:ShootBullet( penleft, dmg, recoil, numbul, cone, minrange, maxrang
 
 	-- Recoil
 	if SERVER and game.SinglePlayer()
-	or CLIENT and not game.SinglePlayer() and IsFirstTimePredicted() 
+	or CLIENT and not game.SinglePlayer() and IsFirstTimePredicted()
 	then
 		self:ApplyRecoil(recoil)
 	end
