@@ -19,12 +19,10 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 - # SHOTGUNS:
 1) Franchi Spas-12: Automatic, high damage, low spread (Credits: https://gamebanana.com/mods/208528)
 2) Akimbo Manvilles: Automatic, high firerate, tons of ammo, big spread (Credits: https://gamebanana.com/mods/208089)
-- # OTHER:
+3) Remington 7615: Scope + zoom, swap between slugs for range and buckshot for damage (Credits: https://gamebanana.com/mods/210804)
+- # MACHINE GUNS:
 1) M60 MG: 200 rounds, no reload (Credits: https://gamebanana.com/mods/211964)
-2) Remington 7615: Scope + zoom, swap between slugs for range and buckshot for damage (Credits: https://gamebanana.com/mods/210804)
-- # MELEE:
-1) Beast Kukri: Fast swinging, higher damage than crowbar (Credits: https://gamebanana.com/mods/212863)
-2) Claw Hammer: Slow swings, higher damage than the Beast Kukri (Credits: https://gamebanana.com/mods/212648)
+1) H&K 23e: 100 rounds, good accuracy (Credits: https://gamebanana.com/mods/211946)
 
 
 # CREDITS
