@@ -1,14 +1,0 @@
-"VertexlitGeneric"{
-"$basetexture" "models\weapons\v_models\beast_kukri\BTR_AF01"
-"$bumpmap"     "models\weapons\v_models\beast_kukri\BTR_AF01_Normal"
-"$phong" 		"1"
-"$phongexponenttexture" "models\weapons\v_models\beast_kukri\BTR_AF01_Mask"
-"$phongexponent" 	"10"	
-"$phongboost" "0.5"	
-"$phongfresnelranges" "[.9 1.5 1]" 	          
-"$rimlight" "1"               
-"$rimlightexponent" "85"	                     
-"$rimlightboost" ".2"  
-"$AmbientOcclusion" "1"  
-"$AmbientOcclTexture" "models\weapons\v_models\beast_kukri\BTR_AF01_Ao"
-}

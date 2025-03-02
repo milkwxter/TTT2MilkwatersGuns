@@ -30,7 +30,7 @@ SWEP.Primary.MinRange		= 2000 	--50 units = ~1m
 SWEP.Primary.MaxRange		= 5000 	--500 units = ~10m
 
 SWEP.AmmoEnt 				= "item_ammo_smg1_ttt"
-SWEP.Primary.Ammo           = "SMG1"
+SWEP.Primary.Ammo           = "AR2"
 SWEP.Primary.ClipSize       = 30
 SWEP.Primary.DefaultClip	= 30
 SWEP.Primary.Automatic      = true

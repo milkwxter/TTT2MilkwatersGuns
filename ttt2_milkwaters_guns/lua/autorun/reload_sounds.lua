@@ -114,14 +114,6 @@ sound.Add({
 	sound = 		"weapons/spas/xm_insert.wav"
 })
 
-// M60 ////////////////////////////////////////////////////////////////
-sound.Add({
-	name = 			"Weapon_M60.chaindraw",
-	channel = 		CHAN_ITEM,
-	volume = 		1.0,
-	sound = 		"weapons/M60/m249_chaindraw.wav"
-})
-
 // MAC11 ////////////////////////////////////////////////////////////////
 sound.Add({
 	name = 			"Weapon_Mac11.boltpull",
