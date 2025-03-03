@@ -6,6 +6,7 @@ Adds in some new weapons for TTT2. Must be used with MrXonte's Weapon Base.
 - # PISTOLS:
 1) Beretta M92: Fast firing, lower damage (Credits: https://gamebanana.com/mods/214380)
 2) Colt Python: High damage, high recoil (Credits: https://gamebanana.com/mods/207724)
+3) M29 Satan Deux: Even higher damage, wrist breaking recoil, flings you around (Credits: https://gamebanana.com/mods/207713)
 - # SMGS:
 1) Ingram MAC-11: Fast firing, lower damage (Credits: https://gamebanana.com/mods/209043)
 2) Ares FMG: 4 round burst, high accuracy (Credits: https://gamebanana.com/mods/209053)
