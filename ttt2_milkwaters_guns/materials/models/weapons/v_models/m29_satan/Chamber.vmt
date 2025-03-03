@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\m29_satan\Chamber"
+	"$bumpmap" "models\weapons\v_models\m29_satan\Chamber norm"
+    	"$envmap" "env_cubemap"
+    	"$normalmapalphaenvmapmask" 1
+
+

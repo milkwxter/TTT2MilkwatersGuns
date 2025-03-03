@@ -287,3 +287,18 @@ sound.Add({
 	volume = 		1.0,
 	sound = 		"weapons/ak47gold/magout.wav"
 })
+
+// M29 Satan ////////////////////////////////////////////////////////////////
+sound.Add({
+	name = 			"Weapon_M29Satan.draw",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m29_satan/draw.wav"
+})
+
+sound.Add({
+	name = 			"Weapon_M29Satan.reload",
+	channel = 		CHAN_ITEM,
+	volume = 		1.0,
+	sound = 		"weapons/m29_satan/reload.wav"
+})
